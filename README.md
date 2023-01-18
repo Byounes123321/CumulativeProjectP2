@@ -1,2 +1,2 @@
 # CumulativeProjectP2
-Cumulative Project second part
+The second part of the Cumulative project for a website built using ASP.net.
